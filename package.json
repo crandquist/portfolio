@@ -1,0 +1,8 @@
+{
+  "name": "cat-randquist-portfolio",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/crandquist/portfolio.git",
+  "author": "Cat Randquist <crandquist@gmail.com>",
+  "license": "MIT"
+}
